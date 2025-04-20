@@ -27,6 +27,9 @@
             <div class="flex flex-col mt-10 md:flex-row md:space-x-6">
                 <Testimonial v-for="card in cards" :key="card.name" :card="card" :class="card.name !== 'Alisha' ? 'hidden md:flex': ''"/>
             </div>
+            <div class="my-16">
+                <a href="#" class="p-2 px-6 mt-3 text-white bg-orange-700 baseline rounded-full hover:bg-orange-600 transition duration-200">Get Started</a>
+            </div>
         </div>
     </section>
 </template>
