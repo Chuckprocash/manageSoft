@@ -41,7 +41,7 @@
                     </div>
                 </form>
                 <div class="hidden md:block text-white">
-                    Copyright &copy; 2023 manage. All rights reserved.
+                    Copyright &copy; 2025 Procash Chak.
                 </div>
             </div>
 
